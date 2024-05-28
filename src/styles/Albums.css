@@ -1,0 +1,44 @@
+/* src/styles/Albums.css */
+.Albums {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+    background-color: #121212;
+}
+
+.Albums .album {
+    background-color: #181818;
+    border-radius: 8px;
+    overflow: hidden;
+    text-align: center;
+    width: 180px;
+    height: 240px; /* Set a fixed height for the album div */
+    cursor: pointer;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.Albums .album:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 20px rgba(255, 255, 255, 0.2);
+}
+
+.Albums .album img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.Albums .album h2 {
+    font-size: 16px;
+    margin: 10px 0;
+    color: white;
+    padding: 2px 0;
+    padding-bottom: 0%
+}
+.Albums .album h3 {
+    font-size: 12px;
+    margin: 10px 0;
+    color: rgb(189, 189, 189);
+    padding: -5px 0;
+}

@@ -1,0 +1,172 @@
+{
+  "albums": [
+    {
+      "id": "thank_u_next",
+      "name": "thank u, next",
+      "artist": "Ariana Grande",
+      "releaseDate": "2019",
+      "duration": "41 min 10 s",
+      "cover": "this_is_ariana_grande.jpg",
+      "tracks": [
+      { "number": 1, "title": "imagine", "duration": "3:32" },
+      { "number": 2, "title": "needy", "duration": "2:51" },
+      { "number": 3, "title": "NASA", "duration": "3:02" },
+      { "number": 4, "title": "bloodline", "duration": "3:36" },
+      { "number": 5, "title": "fake smile", "duration": "3:28" },
+      { "number": 6, "title": "bad idea", "duration": "4:28" },
+      { "number": 7, "title": "make up", "duration": "2:21" },
+      { "number": 8, "title": "ghostin", "duration": "4:32" },
+      { "number": 9, "title": "in my head", "duration": "3:43" },
+      { "number": 10, "title": "7 rings", "duration": "2:59" },
+      { "number": 11, "title": "thank u, next", "duration": "3:28" },
+      { "number": 12, "title": "break up with your girlfriend, i'm bored", "duration": "3:11" }
+     ]
+    },
+    {
+      "id": "guts",
+      "name": "GUTS",
+      "artist": "Olivia Rodrigo",
+      "releaseDate": "2023",
+      "duration": "39 min 18 s",
+      "cover": "guts_album_cover.png",
+      "tracks": [
+        {"number": 1, "title": "All-American Bitch", "duration": "2:45"},
+        {"number": 2, "title": "Bad Idea Right?", "duration": "3:04"},
+        {"number": 3, "title": "Vampire", "duration": "3:39"},
+        {"number": 4, "title": "Lacy", "duration": "2:57"},
+        {"number": 5, "title": "Ballad of a Homsechooled Girl", "duration": "3:23"},
+        {"number": 6, "title": "Making the Bed", "duration": "3:18"},
+        {"number": 7, "title": "Logical", "duration": "3:51"},
+        {"number": 8, "title": "Get Him Back!", "duration": "3:31"},
+        {"number": 9, "title": "Love Is Embarrassing", "duration": "2:34"},
+        {"number": 10, "title": "The Grudge", "duration": "3:09"},
+        {"number": 11, "title": "Pretty Isn't Pretty", "duration": "3:19"},
+        {"number": 12, "title": "Teenage Dream", "duration": "3:42"}
+      ]
+    },
+    {
+      "id": "invasion_of_privacy",
+      "name": "Invasion of Privacy",
+      "artist": "Cardi B",
+      "releaseDate": "2018",
+      "duration": "48:13",
+      "cover": "invasion_of_privacy.jpg",
+      "tracks": [
+        {"number": 1, "title": "Get Up 10", "duration": "3:52"},
+        {"number": 2, "title": "Drip", "duration": "4:23"},
+        {"number": 3, "title": "Bickenhead", "duration": "3:02"},
+        {"number": 4, "title": "Bodak Yellow", "duration": "3:44"},
+        {"number": 5, "title": "Be Careful [Explicit]", "duration": "3:31"},
+        {"number": 6, "title": "Best Life", "duration": "4:45"},
+        {"number": 7, "title": "I Like It [Explicit]", "duration": "4:14"},
+        {"number": 8, "title": "Ring", "duration": "2:58"},
+        {"number": 9, "title": "Money Bag", "duration": "3:50"},
+        {"number": 10, "title": "Bartier Cardi", "duration": "3:45"},
+        {"number": 11, "title": "She Bad", "duration": "3:51"},
+        {"number": 12, "title": "Thru Your Phone", "duration": "3:09"},
+        {"number": 13, "title": "I Do", "duration": "3:21"}
+      ]
+    },
+    {
+      "id": "sos",
+      "name": "SOS",
+      "artist": "SZA",
+      "releaseDate": "2022",
+      "duration": "67:00",
+      "cover": "sos_album_cover.jpg",
+      "tracks": [
+        {"number": 1, "title": "SOS", "duration": "1:57"},
+        {"number": 2, "title": "Kill Bill", "duration": "2:33"},
+        {"number": 3, "title": "Seek & Destroy", "duration": "3:23"},
+        {"number": 4, "title": "Low", "duration": "3:01"},
+        {"number": 5, "title": "Love Language", "duration": "3:03"},
+        {"number": 6, "title": "Blind", "duration": "2:30"},
+        {"number": 7, "title": "Used (featuring Don Toliver)", "duration": "2:26"},
+        {"number": 8, "title": "Snooze", "duration": "3:21"},
+        {"number": 9, "title": "Notice Me", "duration": "2:18"},
+        {"number": 10, "title": "Gone Girl", "duration": "4:04"},
+        {"number": 11, "title": "Smoking on My Ex Pack", "duration": "1:23"},
+        {"number": 12, "title": "Ghost in the Machine (featuring Phoebe Bridgers)", "duration": "3:38"},
+        {"number": 13, "title": "F2F", "duration": "3:05"},
+        {"number": 14, "title": "Nobody Gets Me", "duration": "3:00"},
+        {"number": 15, "title": "Conceited", "duration": "2:31"},
+        {"number": 16, "title": "Special", "duration": "2:38"},
+        {"number": 17, "title": "Too Late", "duration": "2:44"},
+        {"number": 18, "title": "Far", "duration": "2:30"},
+        {"number": 19, "title": "Shirt", "duration": "3:01"},
+        {"number": 20, "title": "Open Arms (featuring Travis Scott)", "duration": "3:25"},
+        {"number": 21, "title": "I Hate U", "duration": "2:50"},
+        {"number": 22, "title": "Good Days", "duration": "4:39"},
+        {"number": 23, "title": "Forgiveless (featuring Ol' Dirty Bastard)", "duration": "2:01"}
+      ]
+    },
+    {
+      "id": "damn",
+      "name": "DAMN.",
+      "artist": "Kendrick Lamar",
+      "releaseDate": "2017",
+      "duration": "54:02",
+      "cover": "damn_album_cover.jpg",
+      "tracks": [
+        {"number": 1, "title": "BLOOD.", "duration": "1:58"},
+        {"number": 2, "title": "DNA.", "duration": "3:06"},
+        {"number": 3, "title": "YAH.", "duration": "2:40"},
+        {"number": 4, "title": "ELEMENT.", "duration": "3:29"},
+        {"number": 5, "title": "FEEL.", "duration": "3:35"},
+        {"number": 6, "title": "LOYALTY.", "duration": "3:47"},
+        {"number": 7, "title": "PRIDE.", "duration": "4:35"},
+        {"number": 8, "title": "HUMBLE.", "duration": "2:57"},
+        {"number": 9, "title": "LUST.", "duration": "5:08"},
+        {"number": 10, "title": "LOVE.", "duration": "3:33"},
+        {"number": 11, "title": "XXX.", "duration": "4:14"},
+        {"number": 12, "title": "FEAR.", "duration": "7:41"},
+        {"number": 13, "title": "GOD.", "duration": "4:09"},
+        {"number": 14, "title": "DUCKWORTH.", "duration": "4:09"}
+      ]
+    },
+    {
+      "id": "igor",
+      "name": "IGOR",
+      "artist": "Tyler, the Creator",
+      "releaseDate": "2019",
+      "duration": "39:43",
+      "cover": "igor_album_cover.jpg",
+      "tracks": [
+        {"number": 1, "title": "Igor's Theme", "duration": "3:20"},
+        {"number": 2, "title": "Earfquake", "duration": "3:10"},
+        {"number": 3, "title": "I Think", "duration": "3:32"},
+        {"number": 4, "title": "Exactly What You Run from You End Up Chasing", "duration": "0:14"},
+        {"number": 5, "title": "Running Out of Time", "duration": "2:57"},
+        {"number": 6, "title": "New Magic Wand", "duration": "3:15"},
+        {"number": 7, "title": "A Boy Is a Gun", "duration": "3:30"},
+        {"number": 8, "title": "Puppet", "duration": "2:59"},
+        {"number": 9, "title": "What's Good", "duration": "3:25"},
+        {"number": 10, "title": "Gone, Gone / Thank You", "duration": "6:15"},
+        {"number": 11, "title": "I Don't Love You Anymore", "duration": "2:41"},
+        {"number": 12, "title": "Are We Still Friends?", "duration": "4:25"}
+      ]
+    }, 
+    {
+      "id": "likedSongs",
+      "name": "Liked Songs",
+      "artist": "Various Artists",
+      "releaseDate": "N/A",
+      "duration": "Varies",
+      "cover": "liked_songs_icon.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "title": "Song 1",
+          "artist": "Artist 1",
+          "duration": "3:45"
+        },
+        {
+          "number": 2,
+          "title": "Song 2",
+          "artist": "Artist 2",
+          "duration": "4:00"
+        }
+      ]
+    }
+  ]
+}
