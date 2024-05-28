@@ -1,6 +1,8 @@
 
 This website was created as part of a personal project aimed at replicating the core functionalities of Spotify. The application developed in this project is a music streaming platform designed to provide users with an immersive and user-friendly experience. It offers features such as music search, playlist creation, and personalized recommendations, enabling users to enjoy their favorite tracks and discover new music seamlessly.
 
+![Uploading spotify.png…]()
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
